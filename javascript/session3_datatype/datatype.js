@@ -1,0 +1,12 @@
+let a = Number(prompt(" nhap so thu nhat "));
+console.log (" so thu nhat la", a);
+let b = Number(prompt("nhap so thu hai "));
+console.log(" so thu hai la",b);
+let cong = a+b;
+let tru = a-b;
+let nhan = a*b;
+let chia = a/b ;
+console.log("tong 2 so la",cong);
+console.log("hieu 2 so la",tru);
+console.log("tich 2 so la",nhan);
+console.log("thuong 2 so la",chia);
